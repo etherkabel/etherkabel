@@ -13,3 +13,5 @@
 💻Host: ThinkPad T480
 
 📚Self-taught
+
+📨Telegram Channel: https://t.me/etherprog
