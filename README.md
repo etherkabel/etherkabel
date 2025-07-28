@@ -2,16 +2,14 @@
 
 ⚙Area of expertise: system software development
 
-👩‍💻Programming: 5 years
+👩‍💻Programming: 6 years
 
 🗺Country: Russia
 
 🙌Age: ???
 
-🤖OS: Arch Linux x86
+🤖OS: Artix Linux x86
 
 💻Host: ThinkPad T480
 
 📚Self-taught
-
-📨Telegram Channel: https://t.me/etherprog
